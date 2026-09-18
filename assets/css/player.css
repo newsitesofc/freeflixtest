@@ -1,0 +1,55 @@
+.hero{width:100%;max-width:1240px;margin:auto;padding:48px var(--pad-x) 72px}
+.titulo-filme{margin:0 0 24px;font-size:clamp(26px,4vw,42px);line-height:1.15;letter-spacing:-.035em}
+.player-wrapper{position:relative;width:100%;padding-top:56.25%;overflow:hidden;margin-bottom:30px;border:1px solid var(--border);border-radius:18px;background:#0b0b0b;box-shadow:var(--shadow)}
+.player-wrapper iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.player-error{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:24px;text-align:center;color:var(--muted)}
+.player-error strong{color:#fff;font-size:20px}
+.player-error a{padding:11px 18px;border-radius:999px;background:var(--red);color:#fff;font-weight:700;text-decoration:none}
+.comentarios-box{width:100%;margin-top:34px;padding:26px;border:1px solid var(--border);border-radius:var(--radius);background:linear-gradient(145deg,rgba(255,255,255,.045),rgba(255,255,255,.018))}
+.comentarios-titulo{margin:0 0 18px;font-size:21px}
+.comentarios-form{display:flex;flex-direction:column;gap:12px;margin-bottom:24px}
+.comentarios-form input,.comentarios-form textarea{width:100%;padding:13px 15px;border:1px solid var(--border);border-radius:10px;background:#090909;color:#fff;transition:border-color .2s,box-shadow .2s}
+.comentarios-form input:focus,.comentarios-form textarea:focus{outline:none;border-color:rgba(229,9,20,.7);box-shadow:0 0 0 4px rgba(229,9,20,.1)}
+.comentarios-form textarea{min-height:110px;resize:vertical}
+.comentarios-form button{align-self:flex-start;min-width:110px;padding:11px 20px;border:0;border-radius:999px;background:var(--red);color:#fff;font-weight:750;cursor:pointer;transition:background .2s,transform .2s}
+.comentarios-form button:hover{background:#f20d19;transform:translateY(-1px)}
+.comentarios-form button:disabled{opacity:.55;cursor:wait}
+.comentarios-lista{display:flex;flex-direction:column;gap:12px}
+.comentario-item{padding:15px;border:1px solid var(--border);border-radius:11px;background:#0a0a0a}
+.comentario-topo{display:flex;justify-content:space-between;gap:16px;margin-bottom:7px;color:var(--muted);font-size:12px}
+.comentario-nome{color:#fff;font-weight:750}
+.comentario-texto{color:#ddd;font-size:14px;line-height:1.55;white-space:pre-wrap;overflow-wrap:anywhere}
+@media(max-width:700px){.hero{padding-top:30px}
+.comentarios-box{padding:19px}
+.comentario-topo{flex-direction:column;gap:3px}
+}
+
+/* Player responsivo para celular e televisão */
+.player-wrapper{padding-top:0;aspect-ratio:16/9}
+.comentarios-form input,.comentarios-form textarea,.comentarios-form button{min-height:48px}
+@media(max-width:700px){
+  .hero{padding:24px 0 48px}
+  .titulo-filme{padding-inline:var(--pad-x);margin-bottom:18px}
+  .player-wrapper{border-radius:0;border-inline:0;margin-bottom:24px}
+  .comentarios-box{width:auto;margin-inline:var(--pad-x);padding:18px}
+}
+@media(min-width:1600px){
+  .hero{max-width:1700px;padding-top:62px}
+  .titulo-filme{font-size:54px;margin-bottom:32px}
+  .player-wrapper{border-radius:24px}
+  .comentarios-box{padding:36px}
+  .comentarios-titulo{font-size:28px}
+  .comentarios-form input,.comentarios-form textarea,.comentarios-form button{font-size:19px}
+  .comentario-texto{font-size:18px}
+}
+
+/* Player compacto em TV */
+@media(min-width:1600px){
+  .hero{max-width:1380px;padding-top:40px;padding-bottom:56px}
+  .titulo-filme{font-size:40px;margin-bottom:22px}
+  .player-wrapper{border-radius:18px;margin-bottom:24px}
+  .comentarios-box{padding:26px;margin-top:28px}
+  .comentarios-titulo{font-size:22px}
+  .comentarios-form input,.comentarios-form textarea,.comentarios-form button{font-size:16px}
+  .comentario-texto{font-size:15px}
+}

@@ -1,0 +1,32 @@
+.serie-page{width:100%;max-width:1380px;min-height:70vh;margin:auto;padding:48px var(--pad-x) 80px}
+.serie-loading,.serie-error{min-height:55vh;display:flex;align-items:center;justify-content:center;color:var(--muted)}
+.serie-error{flex-direction:column;gap:12px;text-align:center}
+.serie-error strong{color:#fff;font-size:24px}
+.serie-error a{margin-top:8px;padding:11px 20px;border-radius:999px;background:var(--red);color:#fff;font-weight:750;text-decoration:none}
+.serie-hero{display:grid;grid-template-columns:minmax(190px,260px) minmax(0,1fr);align-items:end;gap:clamp(28px,5vw,64px);padding:8px 0 52px;border-bottom:1px solid var(--border)}
+.serie-cover{display:block;width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:16px;background:#151515;box-shadow:0 24px 60px rgba(0,0,0,.55)}
+.serie-copy{padding-bottom:10px}
+.serie-label,.section-kicker{display:block;margin-bottom:12px;color:#ff4b54;font-size:12px;font-weight:850;letter-spacing:.15em;text-transform:uppercase}
+.serie-copy h1{max-width:900px;margin:0 0 20px;font-size:clamp(38px,6vw,72px);line-height:1;letter-spacing:-.05em;text-wrap:balance}
+.serie-meta{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:16px;color:#d4d4d8;font-size:14px}
+.serie-meta span{padding:7px 11px;border:1px solid var(--border);border-radius:999px;background:rgba(255,255,255,.04)}
+.serie-genres{margin:0 0 14px;color:#fff;font-size:14px;font-weight:700}
+.serie-synopsis{max-width:780px;margin:0;color:var(--muted);font-size:16px;line-height:1.75}
+.episodes-section{padding-top:42px}
+.episodes-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:28px;margin-bottom:24px}
+.episodes-heading h2{margin:0;font-size:clamp(26px,3vw,36px);letter-spacing:-.035em}
+.season-tabs{display:flex;max-width:100%;gap:9px;overflow-x:auto;padding:4px 3px 8px;scrollbar-width:thin}
+.season-btn{flex:none;min-height:42px;padding:9px 17px;border:1px solid var(--border);border-radius:999px;background:var(--surface-soft);color:#ddd;font-weight:700;cursor:pointer;transition:background .2s,border-color .2s,transform .2s}
+.season-btn:hover{border-color:rgba(255,255,255,.25);transform:translateY(-1px)}
+.season-btn.is-active{border-color:var(--red);background:var(--red);color:#fff}
+.episode-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.episode-card{display:grid;grid-template-columns:48px minmax(0,1fr) 40px;align-items:center;gap:15px;min-height:84px;padding:15px 17px;border:1px solid var(--border);border-radius:14px;background:linear-gradient(145deg,rgba(255,255,255,.055),rgba(255,255,255,.02));color:inherit;text-decoration:none;transition:border-color .2s,background .2s,transform .2s}
+.episode-card:hover{border-color:rgba(229,9,20,.65);background:rgba(229,9,20,.07);transform:translateY(-2px)}
+.episode-number{display:grid;width:44px;height:44px;place-items:center;border-radius:50%;background:#090909;color:#fff;font-size:14px;font-weight:850}
+.episode-info{min-width:0;display:flex;flex-direction:column;gap:5px}
+.episode-info strong{overflow:hidden;font-size:15px;text-overflow:ellipsis;white-space:nowrap}
+.episode-info small{color:var(--muted);font-size:12px}
+.episode-play{display:grid;width:36px;height:36px;place-items:center;padding-left:2px;border-radius:50%;background:var(--red);color:#fff;font-size:12px}
+.episode-empty{grid-column:1/-1;padding:44px;border:1px dashed var(--border);border-radius:14px;color:var(--muted);text-align:center}
+@media(max-width:760px){.serie-page{padding-top:28px;padding-bottom:54px}.serie-hero{grid-template-columns:110px minmax(0,1fr);align-items:center;gap:20px;padding-bottom:34px}.serie-cover{border-radius:11px}.serie-copy{padding:0}.serie-copy h1{margin-bottom:12px;font-size:clamp(28px,8vw,42px)}.serie-label{margin-bottom:8px}.serie-meta{gap:6px;margin-bottom:0}.serie-meta span{padding:5px 8px;font-size:11px}.serie-genres,.serie-synopsis{grid-column:1/-1}.serie-genres{margin-top:18px}.serie-synopsis{font-size:14px}.episodes-heading{align-items:flex-start;flex-direction:column}.season-tabs{width:100%}.episode-list{grid-template-columns:1fr}.episode-card{grid-template-columns:42px minmax(0,1fr) 36px;padding:13px}.episode-number{width:40px;height:40px}}
+@media(min-width:1600px){.serie-page{max-width:1580px}.episode-list{grid-template-columns:repeat(3,minmax(0,1fr))}}

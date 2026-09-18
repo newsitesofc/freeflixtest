@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Player de série | FreeFlix</title>
+<meta name="description" content="Assista ao episódio selecionado no player de séries do FreeFlix."/>
+<link href="assets/css/base.css" rel="stylesheet"/>
+<link href="assets/css/header.css" rel="stylesheet"/>
+<link href="assets/css/player.css" rel="stylesheet"/>
+<link href="assets/css/footer.css" rel="stylesheet"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+</head>
+<body data-page="serie-player">
+<a class="skip-link" href="#conteudo">Ir para o player</a>
+<div id="header-slot"></div>
+
+<main class="hero" id="conteudo">
+  <h1 class="titulo-filme" id="tituloFilme">Carregando...</h1>
+  <div class="player-wrapper">
+    <iframe allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen id="playerIframe" name="Player" referrerpolicy="strict-origin-when-cross-origin" scrolling="no" title="Player do episódio"></iframe>
+  </div>
+  <div class="comentarios-box">
+    <h2 class="comentarios-titulo">Comentários</h2>
+    <div class="comentarios-form">
+      <input id="nomeComentario" maxlength="25" placeholder="Seu nome (opcional)" type="text"/>
+      <textarea id="textoComentario" maxlength="300" placeholder="Escreva seu comentário..."></textarea>
+      <button id="btnEnviarComentario">Enviar</button>
+    </div>
+    <div class="comentarios-lista" id="listaComentarios"></div>
+  </div>
+</main>
+
+<div id="footer-slot"></div>
+<script src="assets/js/include.js?v=4"></script>
+<script src="assets/js/serie-player.js?v=4"></script>
+</body>
+</html>

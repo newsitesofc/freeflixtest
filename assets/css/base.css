@@ -1,0 +1,11 @@
+/* FreeFlix — base visual */
+:root{--header-h:80px;--pad-x:clamp(20px,4vw,64px);--red:#e50914;--red-dark:#b20710;--surface:#111113;--surface-soft:#18181b;--border:rgba(255,255,255,.1);--muted:#a1a1aa;--text:#f7f7f8;--shadow:0 24px 70px rgba(0,0,0,.45);--radius:16px}
+*,*::before,*::after{box-sizing:border-box}html{height:100%;scroll-behavior:smooth}body{min-height:100%;margin:0;padding-top:var(--header-h);background:#050505;color:var(--text);overflow-x:hidden;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(circle at 70% 5%,rgba(229,9,20,.08),transparent 27rem)}a{color:inherit}.container{max-width:1200px;margin-inline:auto}button,input,textarea{font:inherit}img{max-width:100%}::selection{background:var(--red);color:#fff}:focus-visible{outline:3px solid rgba(255,55,65,.75);outline-offset:3px}.skip-link{position:fixed;top:10px;left:12px;z-index:2000;transform:translateY(-160%);padding:10px 14px;border-radius:8px;background:#fff;color:#000;font-weight:700;text-decoration:none;transition:transform .15s}.skip-link:focus{transform:translateY(0)}
+@media(max-width:768px){:root{--header-h:64px;--pad-x:20px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+/* Mobile e Smart TV */
+@media(max-width:768px){:root{--pad-x:16px}body{-webkit-text-size-adjust:100%;touch-action:manipulation}}
+@media(min-width:1600px){:root{--header-h:96px;--pad-x:clamp(64px,5vw,110px)}body{font-size:18px}:focus-visible{outline:5px solid #fff;outline-offset:6px}}
+
+/* Escala compacta para telas grandes */
+@media(min-width:1600px){:root{--header-h:82px;--pad-x:clamp(44px,4vw,78px)}body{font-size:16px}}

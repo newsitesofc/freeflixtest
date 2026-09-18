@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Comentários | FreeFlix</title>
+<meta name="description" content="Envie sua sugestão de filme para o FreeFlix."/>
+<!-- FAVICON -->
+<link href="assets/css/base.css" rel="stylesheet"/><link href="assets/css/header.css" rel="stylesheet"/><link href="assets/css/comentarios.css" rel="stylesheet"/><link href="assets/css/footer.css" rel="stylesheet"/><link href="favicon.ico" rel="icon" type="image/x-icon"/></head>
+<body data-page="comentarios"><a class="skip-link" href="#conteudo">Ir para os comentários</a><div id="header-slot"></div>
+<main class="container" id="conteudo">
+<h1>Quer algum filme no FreeFlix?</h1>
+<p>Comentários públicos, sem login e visíveis para todos.</p>
+<div class="pedidos-box">
+<h2 class="pedidos-titulo">Peça seu filme</h2>
+<div class="pedidos-form">
+<label class="sr-only" for="nomePedido">Seu nome</label>
+<input id="nomePedido" maxlength="25" placeholder="Seu nome (opcional)" type="text"/>
+<label class="sr-only" for="textoPedido">Nome do filme</label>
+<textarea id="textoPedido" maxlength="300" placeholder="Digite o nome do filme que você quer assistir..."></textarea>
+<button id="btnEnviarPedido" type="button">Enviar pedido</button>
+</div>
+<div aria-live="polite" class="pedidos-lista" id="listaPedidos"></div>
+</div>
+</main>
+<div id="footer-slot"></div><script src="assets/js/include.js"></script><script src="assets/js/pedidos.js"></script></body>
+</html>

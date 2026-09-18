@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>FreeFlix | Filmes</title>
+<meta name="description" content="Explore o catálogo de filmes do FreeFlix e encontre rapidamente o que assistir."/>
+<link href="assets/css/base.css" rel="stylesheet"/><link href="assets/css/header.css" rel="stylesheet"/><link href="assets/css/filmes.css" rel="stylesheet"/><link href="assets/css/footer.css" rel="stylesheet"/><link href="favicon.ico" rel="icon" type="image/x-icon"/></head>
+<body data-page="filmes"><a class="skip-link" href="#catalogo">Ir para o catálogo</a><div id="header-slot"></div>
+<main id="catalogo">
+<div class="filmes-top">
+    <div>
+      <h1 class="page-title">Catálogo de filmes</h1>
+      <p class="page-subtitle" id="resultCount">Carregando catálogo…</p>
+    </div>
+
+    <div class="search-inline" aria-label="Pesquisar filmes">
+      <input id="searchInput" class="search-input" type="search" placeholder="Pesquisar..." autocomplete="off" inputmode="search" />
+      <button class="search-btn" id="searchBtn" type="button" aria-label="Abrir ou fechar pesquisa" aria-expanded="false" aria-controls="searchInput">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          <path d="M16.4 16.4 21 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+</div>
+<section class="grid" aria-live="polite" aria-busy="true"></section>
+</main>
+<div id="footer-slot"></div><script src="assets/js/include.js"></script><script src="assets/js/filmes.js"></script></body>
+</html>

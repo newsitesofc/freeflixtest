@@ -1,0 +1,658 @@
+[
+  {
+    "id": "ABARCDBJ",
+    "titulo": "A Barrada do Beijo",
+    "capa": "A_Barraca_do_Beijo.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ABARCDBJ2",
+    "titulo": "A Barrada do Beijo",
+    "capa": "A_Barraca_do_Beijo_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ABARCDBJ3",
+    "titulo": "A Barrada do Beijo",
+    "capa": "A_Barraca_do_Beijo_3.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "365DIAS",
+    "titulo": "365 Dias",
+    "capa": "365_Dias.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ONGBK1",
+    "titulo": "Ong Bak: Guerreiro Sagrado",
+    "capa": "Ong_Bak.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ONGBK2",
+    "titulo": "Ong Bak 2: O Guerreiro Sagrado Voltou",
+    "capa": "Ong_Bak_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ONGBK3",
+    "titulo": "Ong Bak 3",
+    "capa": "Ong_Bak_3.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "IPMANSCUMLND",
+    "titulo": "IP Man: Nasce uma Lenda",
+    "capa": "IP_Man_Nasce_Uma_Lenda.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OGRNDMSTR1",
+    "titulo": "O Grande Mestre",
+    "capa": "O_Grande_Mestre.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OGRNDMSTR2",
+    "titulo": "O Grande Mestre 2",
+    "capa": "O_Grande_Mestre_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OGRNDMSTR3",
+    "titulo": "O Grande Mestre 3",
+    "capa": "O_Grande_Mestre_3.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OGRNDMSTR4",
+    "titulo": "O Grande Mestre 4: A Batalha Final",
+    "capa": "O_Grande_Mestre_4.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VENOM",
+    "titulo": "Venom",
+    "capa": "Venom.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VENOMTMPDCRNFNA",
+    "titulo": "Venom: Tempo de Carnificina",
+    "capa": "Venom_Tempo_De_Carnificina.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VENOMAULTMRDADA",
+    "titulo": "Venom: A Última Rodada",
+    "capa": "Venom_A_Ultima_Rodada.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TRPDELT1",
+    "titulo": "Tropa de Elite",
+    "capa": "Tropa_de_Elite.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TRPDELT2",
+    "titulo": "Tropa de Elite 2: O Inimigo Agora é Outro",
+    "capa": "Tropa_de_Elite_2_O_Inimigo_Agora_é_Outro.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS01",
+    "titulo": "Velozes e Furiosos",
+    "capa": "Velozes_e_Furiosos.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS02",
+    "titulo": "+ Velozes + Furiosos",
+    "capa": "+_Velozes_+_Furiosos.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS03",
+    "titulo": "Velozes e Furiosos: Desafio em Tóquio",
+    "capa": "Velozes_e_Furiosos_Desafio_em_Tóquio.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS04",
+    "titulo": "Velozes e Furiosos 4",
+    "capa": "Velozes_e_Furiosos_4.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS05",
+    "titulo": "Velozes e Furiosos 5: Operação Rio",
+    "capa": "Velozes_e_Furiosos_5_Operação_Rio.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS06",
+    "titulo": "Velozes e Furiosos 6",
+    "capa": "Velozes_e_Furiosos_6.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS07",
+    "titulo": "Velozes e Furiosos 7",
+    "capa": "Velozes_e_Furiosos_7.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZeFROSOS08",
+    "titulo": "Velozes e Furiosos 8",
+    "capa": "Velozes_e_Furiosos_8.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOSHBSESWDUB",
+    "titulo": "Velozes e Furiosos: Hobbs & Shaw",
+    "capa": "Velozes_e_Furiosos_Hobbs_&_Shaw.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS09DUBL",
+    "titulo": "Velozes e Furiosos 9",
+    "capa": "Velozes_e_Furiosos_9.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VLZEFROSOS10",
+    "titulo": "Velozes e Furiosos 10",
+    "capa": "Velozes_e_Furiosos_10.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "SONCOFLM",
+    "titulo": "Sonic: O Filme",
+    "capa": "Sonic_O_Filme.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "SONC2OFLM",
+    "titulo": "Sonic 2: O Filme",
+    "capa": "Sonic_2_O_Filme.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "SONC3OFLM",
+    "titulo": "Sonic 3: O Filme",
+    "capa": "Sonic_3_O_Filme.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PICPAU",
+    "titulo": "Pica-Pau: O Filme",
+    "capa": "Pica_Pau_O_Filme.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PICPAUASAVNTRSNACAMP",
+    "titulo": "Pica-Pau: As Férias no Acampamento",
+    "capa": "Pica_Pau_As_Férias_no_Acampamento.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "CMEUERANTSDVC",
+    "titulo": "Como Eu Era Antes de Você",
+    "capa": "Como_Eu_Era_Antes_de_Você.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "2FLHSDCHICO",
+    "titulo": "2 Filhos de Francisco",
+    "capa": "2_Filhos_de_Francisco.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer5",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "EMRTMDFG",
+    "titulo": "Em Ritmo de Fuga",
+    "capa": "Em_Ritmo_de_Fuga.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "ATRCPRGS",
+    "titulo": "Atração Perigosa",
+    "capa": "Atração_Perigosa.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "MZRNRCROMR",
+    "titulo": "Maze Runner: Correr ou Morrer",
+    "capa": "Maze_Runner_Correr_ou_Morrer.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "CODIGO",
+    "titulo": "Uma Pedrada por Vez",
+    "capa": "Uma_Pedrada_Por_Vez.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServerX",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "BCRAU",
+    "titulo": "Bacurau",
+    "capa": "Bacurau.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PRTSDCRB01",
+    "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "capa": "Piratas_do_Caribe_A_Maldição_do_Pérola_Negra.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PRTSDCRB02",
+    "titulo": "Piratas do Caribe: O Baú da Morte",
+    "capa": "Piratas_do_Caribe_O_Baú_da_Morte.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PRTSDCRB03",
+    "titulo": "Piratas do Caribe: No Fim do Mundo",
+    "capa": "Piratas_do_Caribe_No_Fim_do_Mundo.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PRTSDCRB04",
+    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "capa": "Piratas_do_Caribe_Navegando_em_Águas_Misteriosas.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "PRTSDCRB05",
+    "titulo": "Piratas do Caribe: A Vingança de Salazar",
+    "capa": "Piratas_do_Caribe_A_Vingança_de_Salazar.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "KRTKDRMK1",
+    "titulo": "Karatê Kid",
+    "capa": "Karatê_Kid.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "KRTKDLNDS",
+    "titulo": "Karatê Kid: Lendas",
+    "capa": "Karatê_Kid_Lendas.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRS01",
+    "titulo": "Transformers",
+    "capa": "Transformers.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRS02",
+    "titulo": "Transformers: A Vingança dos Derrotados",
+    "capa": "Transformers_A_Vingança_dos_Derrotados.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRS03",
+    "titulo": "Transformers: O Lado Oculto da Lua",
+    "capa": "Transformers_O_Lado_Oculto_da_Lua.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRS04",
+    "titulo": "Transformers: A Era da Extinção",
+    "capa": "Transformers_A_Era_da_Extinção.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRS05",
+    "titulo": "Transformers: O Último Cavaleiro",
+    "capa": "Transformers_O_Ultimo_Cavaleiro.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "BUMBLE",
+    "titulo": "Bumblebee",
+    "capa": "Bumblebee.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "TNSFRMRSODSPTRDSFRS",
+    "titulo": "Transformers: O Despertar das Feras",
+    "capa": "Transformers_O_Despertar_das_Feras.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "SCBYDO",
+    "titulo": "Scooby-Doo",
+    "capa": "Scooby_Doo.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "SCBYDO2",
+    "titulo": "Scooby-Doo 2: Monstros à Solta",
+    "capa": "Scooby_Doo_2_Monstros_à_Solta.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "JMNJBMVNDASLV",
+    "titulo": "Jumanji: Bem-Vindo à Selva",
+    "capa": "Jumanji_Bem_Vindo_à_Selva.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "JMNJPRXMFASE",
+    "titulo": "Jumanji: Próxima Fase",
+    "capa": "Jumanji_Próxima_Fase.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "RDNCEODNTEDPRCSA",
+    "titulo": "Rodência e o Dente da Princesa",
+    "capa": "Rodência_e_o_Dente_da_Princesa.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "UMFLMNCRFT",
+    "titulo": "Um Filme: Minecraft",
+    "capa": "Um_Filme_Minecraft.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "GRDOESDGLXIA",
+    "titulo": "Guardiões da Galáxia",
+    "capa": "Guardiões_da_Galáxia.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "GRDOESDGLXIAVL2",
+    "titulo": "Guardiões da Galáxia Vol. 2",
+    "capa": "Guardiões_da_Galáxia_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "GRDOESDGLXIAVL3",
+    "titulo": "Guardiões da Galáxia Vol. 3",
+    "capa": "Guardiões_da_Galáxia_3.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OMSKR01",
+    "titulo": "O Máskara",
+    "capa": "O_Máskara.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "FVENGHTSATFRDSOPSDLSMFM",
+    "titulo": "Five Nights at Freddy's: O Pesadelo Sem Fim",
+    "capa": "Five_Nights_at_Freddys_O_Pesadelo_Sem_Fim.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "FVENGHTSATFRDS2",
+    "titulo": "Cinco Noites com Freddy's 2",
+    "capa": "Cinco_Noites_com_Freddys_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "HMNDEFRO01",
+    "titulo": "Homem de Ferro",
+    "capa": "Homem_de_Ferro.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "HMNDEFRO02",
+    "titulo": "Homem de Ferro 2",
+    "capa": "Homem_de_Ferro_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "HMNDEFRO03",
+    "titulo": "Homem de Ferro 3",
+    "capa": "Homem_de_Ferro_3.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OSVGDRS",
+    "titulo": "Os Vingadores",
+    "capa": "Os_Vingadores.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VNGDRSEDURON",
+    "titulo": "Vingadores: Era de Ultron",
+    "capa": "Vingadores_Era_de_Ultron.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VNGDRSULTMTO",
+    "titulo": "Vingadores: Ultimato",
+    "capa": "Vingadores_Ultimato.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "VNGDRSGRAINFNT",
+    "titulo": "Vingadores: Guerra Infinita",
+    "capa": "Vingadores_Guerra_Infinita.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OSHLINDSRT",
+    "titulo": "O Shaolin do Sertão",
+    "capa": "O_Shaolin_do_Sertão.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "MTQRFNTSM01",
+    "titulo": "Motoqueiro Fantasma",
+    "capa": "Motoqueiro_Fantasma.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "MTQRFNTSM02",
+    "titulo": "Motoqueiro Fantasma: Espírito de Vingança",
+    "capa": "Motoqueiro_Fantasma_Espirito_de_Vingança.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "OPRCBGHRO",
+    "titulo": "Operação Big Hero",
+    "capa": "Operação_Big_Hero.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer1",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "DEADP",
+    "titulo": "Deadpool",
+    "capa": "Deadpool.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer2",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "DEADP2",
+    "titulo": "Deadpool 2",
+    "capa": "Deadpool_2.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "DEADPEWLVRNE",
+    "titulo": "Deadpool & Wolverine",
+    "capa": "Deadpool_e_Wolverine.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer3",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "HOMARNHATRVSDARNVRSOBETA",
+    "titulo": "Homem-Aranha: Através do Aranhaverso",
+    "capa": "Homem_Aranha_Através_do_Aranhaverso.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  },
+  {
+    "id": "WLLE",
+    "titulo": "Wall-E",
+    "capa": "Wall_E.jpg",
+    "provider": "rede-canais",
+    "server": "RCFServer4",
+    "subfolder": "ondemand"
+  }
+]
