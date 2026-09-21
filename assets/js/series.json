@@ -25,7 +25,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT01EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -33,7 +33,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT01EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -41,7 +41,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT01EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -49,7 +49,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT01EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -57,7 +57,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT01EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -65,7 +65,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT01EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -78,7 +78,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT02EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -86,7 +86,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT02EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -94,7 +94,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT02EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -102,7 +102,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT02EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -110,7 +110,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT02EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -118,7 +118,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT02EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -126,7 +126,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT02EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -134,7 +134,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT02EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -142,7 +142,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT02EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -150,7 +150,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT02EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -158,7 +158,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT02EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -166,7 +166,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT02EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -174,7 +174,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT02EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -182,7 +182,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT02EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -190,7 +190,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT02EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -198,7 +198,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT02EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -206,7 +206,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT02EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -214,7 +214,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT02EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -222,7 +222,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT02EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -230,7 +230,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT02EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -238,7 +238,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT02EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -251,7 +251,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT03EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -259,7 +259,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT03EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -267,7 +267,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT03EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -275,7 +275,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT03EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -283,7 +283,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT03EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -291,7 +291,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT03EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -299,7 +299,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT03EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -307,7 +307,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT03EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -315,7 +315,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT03EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -323,7 +323,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT03EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -331,7 +331,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT03EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -339,7 +339,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT03EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -347,7 +347,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT03EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -355,7 +355,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT03EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -363,7 +363,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT03EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -371,7 +371,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT03EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -379,7 +379,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT03EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -387,7 +387,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT03EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -395,7 +395,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT03EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -403,7 +403,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT03EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -411,7 +411,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT03EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -419,7 +419,7 @@
             "titulo": "Episódio 22",
             "id": "UFMLDPSDT03EP22",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -432,7 +432,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT04EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -440,7 +440,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT04EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -448,7 +448,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT04EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -456,7 +456,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT04EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -464,7 +464,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT04EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -472,7 +472,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT04EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -480,7 +480,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT04EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -488,7 +488,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT04EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -496,7 +496,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT04EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -504,7 +504,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT04EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -512,7 +512,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT04EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -520,7 +520,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT04EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -528,7 +528,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT04EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -536,7 +536,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT04EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -544,7 +544,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT04EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -552,7 +552,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT04EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -560,7 +560,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT04EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -568,7 +568,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT04EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -576,7 +576,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT04EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -584,7 +584,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT04EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -592,7 +592,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT04EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -600,7 +600,7 @@
             "titulo": "Episódio 22",
             "id": "UFMLDPSDT04EP22",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -608,7 +608,7 @@
             "titulo": "Episódio 23",
             "id": "UFMLDPSDT04EP23",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -616,7 +616,7 @@
             "titulo": "Episódio 24",
             "id": "UFMLDPSDT04EP24",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -624,7 +624,7 @@
             "titulo": "Episódio 25",
             "id": "UFMLDPSDT04EP25",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -632,7 +632,7 @@
             "titulo": "Episódio 26",
             "id": "UFMLDPSDT04EP26",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -640,7 +640,7 @@
             "titulo": "Episódio 27",
             "id": "UFMLDPSDT04EP27",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -648,7 +648,7 @@
             "titulo": "Episódio 28",
             "id": "UFMLDPSDT04EP28",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -656,7 +656,7 @@
             "titulo": "Episódio 29",
             "id": "UFMLDPSDT04EP29",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -664,7 +664,7 @@
             "titulo": "Episódio 30",
             "id": "UFMLDPSDT04EP30",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -677,7 +677,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT05EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -685,7 +685,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT05EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -693,7 +693,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT05EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -701,7 +701,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT05EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -709,7 +709,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT05EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -717,7 +717,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT05EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -725,7 +725,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT05EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -733,7 +733,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT05EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -741,7 +741,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT05EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -749,7 +749,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT05EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -757,7 +757,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT05EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -765,7 +765,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT05EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -773,7 +773,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT05EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -781,7 +781,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT05EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -789,7 +789,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT05EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -797,7 +797,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT05EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -805,7 +805,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT05EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -813,7 +813,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT05EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -826,7 +826,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT06EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -834,7 +834,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT06EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -842,7 +842,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT06EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -850,7 +850,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT06EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -858,7 +858,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT06EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -866,7 +866,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT06EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -874,7 +874,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT06EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -882,7 +882,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT06EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -890,7 +890,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT06EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -898,7 +898,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT06EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -906,7 +906,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT06EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -914,7 +914,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT06EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -927,7 +927,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT07EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -935,7 +935,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT07EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -943,7 +943,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT07EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -951,7 +951,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT07EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -959,7 +959,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT07EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -967,7 +967,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT07EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -975,7 +975,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT07EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -983,7 +983,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT07EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -991,7 +991,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT07EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -999,7 +999,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT07EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1007,7 +1007,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT07EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1015,7 +1015,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT07EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1023,7 +1023,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT07EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1031,7 +1031,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT07EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1039,7 +1039,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT07EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1047,7 +1047,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT07EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1060,7 +1060,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT08EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1068,7 +1068,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT08EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1076,7 +1076,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT08EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1084,7 +1084,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT08EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1092,7 +1092,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT08EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1100,7 +1100,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT08EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1108,7 +1108,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT08EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1116,7 +1116,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT08EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1124,7 +1124,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT08EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1132,7 +1132,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT08EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1140,7 +1140,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT08EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1148,7 +1148,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT08EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1156,7 +1156,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT08EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1164,7 +1164,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT08EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1172,7 +1172,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT08EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1180,7 +1180,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT08EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1188,7 +1188,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT08EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1196,7 +1196,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT08EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1204,7 +1204,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT08EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1212,7 +1212,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT08EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1220,7 +1220,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT08EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1233,7 +1233,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT09EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1241,7 +1241,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT09EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1249,7 +1249,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT09EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1257,7 +1257,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT09EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1265,7 +1265,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT09EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1273,7 +1273,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT09EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1281,7 +1281,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT09EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1289,7 +1289,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT09EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1297,7 +1297,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT09EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1305,7 +1305,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT09EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1313,7 +1313,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT09EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1321,7 +1321,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT09EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1329,7 +1329,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT09EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1337,7 +1337,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT09EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1345,7 +1345,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT09EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1353,7 +1353,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT09EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1361,7 +1361,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT09EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1369,7 +1369,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT09EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1382,7 +1382,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT10EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1390,7 +1390,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT10EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1398,7 +1398,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT10EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1406,7 +1406,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT10EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1414,7 +1414,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT10EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1422,7 +1422,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT10EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1430,7 +1430,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT10EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1438,7 +1438,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT10EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1446,7 +1446,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT10EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1454,7 +1454,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT10EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1462,7 +1462,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT10EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1470,7 +1470,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT10EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1478,7 +1478,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT10EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1486,7 +1486,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT10EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1494,7 +1494,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT10EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1502,7 +1502,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT10EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1510,7 +1510,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT10EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1518,7 +1518,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT10EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1526,7 +1526,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT10EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1534,7 +1534,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT10EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1542,7 +1542,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT10EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1550,7 +1550,7 @@
             "titulo": "Episódio 22",
             "id": "UFMLDPSDT10EP22",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1558,7 +1558,7 @@
             "titulo": "Episódio 23",
             "id": "UFMLDPSDT10EP23",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1571,7 +1571,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT11EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1579,7 +1579,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT11EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1587,7 +1587,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT11EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1595,7 +1595,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT11EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1603,7 +1603,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT11EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1611,7 +1611,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT11EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1619,7 +1619,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT11EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1627,7 +1627,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT11EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1635,7 +1635,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT11EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1643,7 +1643,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT11EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1651,7 +1651,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT11EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1659,7 +1659,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT11EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1667,7 +1667,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT11EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1675,7 +1675,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT11EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1683,7 +1683,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT11EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1691,7 +1691,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT11EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1699,7 +1699,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT11EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1707,7 +1707,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT11EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1715,7 +1715,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT11EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1723,7 +1723,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT11EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1731,7 +1731,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT11EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1739,7 +1739,7 @@
             "titulo": "Episódio 22",
             "id": "UFMLDPSDT11EP22",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1752,7 +1752,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT12EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1760,7 +1760,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT12EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1768,7 +1768,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT12EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1776,7 +1776,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT12EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1784,7 +1784,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT12EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1792,7 +1792,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT12EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1800,7 +1800,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT12EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1808,7 +1808,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT12EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1816,7 +1816,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT12EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1824,7 +1824,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT12EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1832,7 +1832,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT12EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1840,7 +1840,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT12EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1848,7 +1848,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT12EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1856,7 +1856,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT12EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1864,7 +1864,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT12EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1872,7 +1872,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT12EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1880,7 +1880,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT12EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1888,7 +1888,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT12EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1896,7 +1896,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT12EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1904,7 +1904,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT12EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1912,7 +1912,7 @@
             "titulo": "Episódio 21",
             "id": "UFMLDPSDT12EP21",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -1925,7 +1925,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT13EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1933,7 +1933,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT13EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1941,7 +1941,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT13EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1949,7 +1949,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT13EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1957,7 +1957,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT13EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1965,7 +1965,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT13EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1973,7 +1973,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT13EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1981,7 +1981,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT13EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1989,7 +1989,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT13EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -1997,7 +1997,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT13EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2005,7 +2005,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT13EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2013,7 +2013,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT13EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2021,7 +2021,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT13EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2029,7 +2029,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT13EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2037,7 +2037,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT13EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2045,7 +2045,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT13EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2053,7 +2053,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT13EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2061,7 +2061,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT13EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2074,7 +2074,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT14EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2082,7 +2082,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT14EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2090,7 +2090,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT14EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2098,7 +2098,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT14EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2106,7 +2106,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT14EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2114,7 +2114,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT14EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2122,7 +2122,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT14EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2130,7 +2130,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT14EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2138,7 +2138,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT14EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2146,7 +2146,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT14EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2154,7 +2154,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT14EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2162,7 +2162,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT14EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2170,7 +2170,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT14EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2178,7 +2178,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT14EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2186,7 +2186,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT14EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2194,7 +2194,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT14EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2202,7 +2202,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT14EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2210,7 +2210,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT14EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2218,7 +2218,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT14EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2226,7 +2226,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT14EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2239,7 +2239,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT15EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2247,7 +2247,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT15EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2255,7 +2255,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT15EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2263,7 +2263,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT15EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2271,7 +2271,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT15EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2279,7 +2279,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT15EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2287,7 +2287,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT15EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2295,7 +2295,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT15EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2303,7 +2303,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT15EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2311,7 +2311,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT15EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2319,7 +2319,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT15EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2327,7 +2327,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT15EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2335,7 +2335,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT15EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2343,7 +2343,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT15EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2351,7 +2351,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT15EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2359,7 +2359,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT15EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2367,7 +2367,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT15EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2375,7 +2375,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT15EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2383,7 +2383,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT15EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2391,7 +2391,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT15EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2404,7 +2404,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT16EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2412,7 +2412,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT16EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2420,7 +2420,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT16EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2428,7 +2428,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT16EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2436,7 +2436,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT16EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2444,7 +2444,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT16EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2452,7 +2452,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT16EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2460,7 +2460,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT16EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2468,7 +2468,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT16EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2476,7 +2476,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT16EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2484,7 +2484,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT16EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2492,7 +2492,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT16EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2500,7 +2500,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT16EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2508,7 +2508,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT16EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2516,7 +2516,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT16EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2524,7 +2524,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT16EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2532,7 +2532,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT16EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2540,7 +2540,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT16EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2548,7 +2548,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT16EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2556,7 +2556,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT16EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2569,7 +2569,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT17EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2577,7 +2577,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT17EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2585,7 +2585,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT17EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2593,7 +2593,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT17EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2601,7 +2601,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT17EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2609,7 +2609,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT17EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2617,7 +2617,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT17EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2625,7 +2625,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT17EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2633,7 +2633,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT17EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2641,7 +2641,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT17EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2649,7 +2649,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT17EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2657,7 +2657,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT17EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2665,7 +2665,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT17EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2673,7 +2673,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT17EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2681,7 +2681,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT17EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2689,7 +2689,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT17EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2697,7 +2697,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT17EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2705,7 +2705,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT17EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2713,7 +2713,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT17EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2721,7 +2721,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT17EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2734,7 +2734,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT18EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2742,7 +2742,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT18EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2750,7 +2750,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT18EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2758,7 +2758,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT18EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2766,7 +2766,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT18EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2774,7 +2774,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT18EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2782,7 +2782,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT18EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2790,7 +2790,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT18EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2798,7 +2798,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT18EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2806,7 +2806,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT18EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2814,7 +2814,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT18EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2822,7 +2822,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT18EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2830,7 +2830,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT18EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2838,7 +2838,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT18EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2846,7 +2846,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT18EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2854,7 +2854,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT18EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2862,7 +2862,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT18EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2870,7 +2870,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT18EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2878,7 +2878,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT18EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2886,7 +2886,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT18EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -2899,7 +2899,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT19EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2907,7 +2907,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT19EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2915,7 +2915,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT19EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2923,7 +2923,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT19EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2931,7 +2931,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT19EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2939,7 +2939,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT19EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2947,7 +2947,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT19EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2955,7 +2955,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT19EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2963,7 +2963,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT19EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2971,7 +2971,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT19EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2979,7 +2979,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT19EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2987,7 +2987,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT19EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -2995,7 +2995,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT19EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3003,7 +3003,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT19EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3011,7 +3011,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT19EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3019,7 +3019,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT19EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3027,7 +3027,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT19EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3035,7 +3035,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT19EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3043,7 +3043,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT19EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3051,7 +3051,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT19EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -3064,7 +3064,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT20EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3072,7 +3072,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT20EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3080,7 +3080,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT20EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3088,7 +3088,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT20EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3096,7 +3096,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT20EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3104,7 +3104,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT20EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3112,7 +3112,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT20EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3120,7 +3120,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT20EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3128,7 +3128,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT20EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3136,7 +3136,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT20EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3144,7 +3144,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT20EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3152,7 +3152,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT20EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3160,7 +3160,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT20EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3168,7 +3168,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT20EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3176,7 +3176,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT20EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3184,7 +3184,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT20EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3192,7 +3192,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT20EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3200,7 +3200,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT20EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3208,7 +3208,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT20EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3216,7 +3216,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT20EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
@@ -3229,7 +3229,7 @@
             "titulo": "Episódio 1",
             "id": "UFMLDPSDT21EP01",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3237,7 +3237,7 @@
             "titulo": "Episódio 2",
             "id": "UFMLDPSDT21EP02",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3245,7 +3245,7 @@
             "titulo": "Episódio 3",
             "id": "UFMLDPSDT21EP03",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3253,7 +3253,7 @@
             "titulo": "Episódio 4",
             "id": "UFMLDPSDT21EP04",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3261,7 +3261,7 @@
             "titulo": "Episódio 5",
             "id": "UFMLDPSDT21EP05",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3269,7 +3269,7 @@
             "titulo": "Episódio 6",
             "id": "UFMLDPSDT21EP06",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3277,7 +3277,7 @@
             "titulo": "Episódio 7",
             "id": "UFMLDPSDT21EP07",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3285,7 +3285,7 @@
             "titulo": "Episódio 8",
             "id": "UFMLDPSDT21EP08",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3293,7 +3293,7 @@
             "titulo": "Episódio 9",
             "id": "UFMLDPSDT21EP09",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3301,7 +3301,7 @@
             "titulo": "Episódio 10",
             "id": "UFMLDPSDT21EP10",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3309,7 +3309,7 @@
             "titulo": "Episódio 11",
             "id": "UFMLDPSDT21EP11",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3317,7 +3317,7 @@
             "titulo": "Episódio 12",
             "id": "UFMLDPSDT21EP12",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3325,7 +3325,7 @@
             "titulo": "Episódio 13",
             "id": "UFMLDPSDT21EP13",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3333,7 +3333,7 @@
             "titulo": "Episódio 14",
             "id": "UFMLDPSDT21EP14",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3341,7 +3341,7 @@
             "titulo": "Episódio 15",
             "id": "UFMLDPSDT21EP15",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3349,7 +3349,7 @@
             "titulo": "Episódio 16",
             "id": "UFMLDPSDT21EP16",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3357,7 +3357,7 @@
             "titulo": "Episódio 17",
             "id": "UFMLDPSDT21EP17",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3365,7 +3365,7 @@
             "titulo": "Episódio 18",
             "id": "UFMLDPSDT21EP18",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3373,7 +3373,7 @@
             "titulo": "Episódio 19",
             "id": "UFMLDPSDT21EP19",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           },
           {
@@ -3381,7 +3381,7 @@
             "titulo": "Episódio 20",
             "id": "UFMLDPSDT21EP20",
             "provider": "rede-canais",
-            "server": "RCFServer5",
+            "server": "RCServer05",
             "subfolder": "ondemand"
           }
         ]
